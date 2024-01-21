@@ -5,7 +5,11 @@
 - 😄 <b>Pronouns:</b> Tech Enthusiast
 - ⚡ <b>Fun fact:</b> Coffee-powered coder!
 - 📫 <b>Connect with me:</b>
-  <br /> <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akash-r-1918121b6/)    
+  <br /> <br /> <a href="https://www.linkedin.com/in/akash-r-1918121b6/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akash-r-1918121b6/)    -->
 
 
  <!-- ### Code:

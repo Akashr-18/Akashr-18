@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Associate in Cognizant
 - 🌱 I’m currently learning AI
-- 📫 How to reach me:
+- 📫 Connect with me:
   <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akash-r-1918121b6/)    
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: Hell
